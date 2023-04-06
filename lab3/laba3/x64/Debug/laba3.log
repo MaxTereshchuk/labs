@@ -1,0 +1,5 @@
+﻿  class.cpp
+C:\Users\user\source\repos\laba3\laba3\class.cpp(43,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  laba3.vcxproj -> C:\Users\user\source\repos\laba3\x64\Debug\laba3.exe
