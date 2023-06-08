@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\laba77\laba77\MyForm.h(412,2): warning C4286: System::FormatException ^: перехвачено базовым классом ("System::Exception ^") в строке 409
+  func.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  laba77.vcxproj -> C:\Users\user\source\repos\laba77\x64\Debug\laba77.exe
